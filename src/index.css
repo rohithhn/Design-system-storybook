@@ -1,0 +1,9 @@
+@import './variables.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+  Additional base styles or component styles can be added here,
+  but prefer using Tailwind classes or CSS modules where possible.
+*/
